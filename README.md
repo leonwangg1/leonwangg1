@@ -15,6 +15,7 @@
 
 <p>
    &nbsp; &nbsp; &nbsp; &nbsp;
+      <a href="mailto:itsleonwang1@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=(mailto:itsleonwang1@gmail.com?subject=Hi%Leon,%reaching%out%to%you%from%Github!)"></a>
    <a href="https://www.linkedin.com/in/leonwangg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/leonwangg/"></a>
    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/"></a>
    <a href="https://www.instagram.com/leonwangg_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/leonwangg_/"></a>
