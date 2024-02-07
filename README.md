@@ -3,11 +3,9 @@
 
 - 🔭 My recent project [🤫](https://leonwang.me/)
 
-- 💬 What your favourite **tool**?
+- 💬 What's a **tool** you use everyday?
 
 - 📫 How to reach me: itsleonwang1@gmail.com
-
-- ⚡ Fun fact **kangaroos can't walk backwards**
 
 ### 📫 Connect wth me:
 
