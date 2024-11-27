@@ -1,9 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Leon</h1>
 <h3 align="center">A Developer from Sydney, Australia</h3>
 
-- 🔭 My recent project [🤫](https://leonwang.me/)
-
-- 💬 What's a **tool** you use everyday?
+- 🔭 My portfolio [🤫](https://leonwang.me/)
 
 - 📫 How to reach me: itsleonwang1@gmail.com
 
