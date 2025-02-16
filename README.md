@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Leon</h1>
 <h3 align="center">Developer from Sydney, Australia</h3>
 
-- 🔭 [My portfolio](https://leonwang.me/)
-
 ### 📫 Connect wth me:
 
 <p>
