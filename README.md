@@ -3,8 +3,6 @@
 
 - 🔭 [My portfolio](https://leonwang.me/)
 
-- 📫 How to reach me: itsleonwang1@gmail.com
-
 ### 📫 Connect wth me:
 
 <p>
