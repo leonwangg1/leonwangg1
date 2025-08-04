@@ -9,7 +9,7 @@
    <a href="https://www.linkedin.com/in/leonwangg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/leonwangg/"></a>
     <a href="https://leonwang.me"><img src="http://img.shields.io/badge/-portfolio-black?logo=windowsterminal&style=flat-square"></a>
 <!--    <a href="https://www.instagram.com/leonwangg_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/leonwangg_/"></a> -->
-   <a href="[https://twitter.com/](https://x.com/leonwangg1)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/"></a>
+   <a href="https://x.com/leonwangg1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/"></a>
 <!--       <a href="https://medium.com/@leonwangg/"><img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@leonwangg"></a> -->
 </p>
 
